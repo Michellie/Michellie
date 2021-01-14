@@ -1,3 +1,5 @@
+![I am Michelle](https://i.imgur.com/uYxKrHu.jpg)
+
 ## `Oh, hello there 👋🏼`
 I am a ✨ Technology Evangelist ✨ at [Microsoft](https://github.com/microsoft); where my goal is to empower others to embark on their digital transformation journey.
 
